@@ -37,7 +37,7 @@ How to run
 --------------------------------------------------------------------------------
 Download the latest version of arduino IDE
 
-Follow the first few steps of the Software Preperation guide in the docs here on how to install the ESP 32 board in Arduino IDE
+Follow the first few steps of the Software Preperation guide in the docs (https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) on how to install the ESP 32 board in Arduino IDE
 
 Install the following libraries:
 
